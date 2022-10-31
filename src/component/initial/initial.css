@@ -1,0 +1,97 @@
+
+.App-card1 {
+    display: flex;
+  } 
+  
+  .App-para0 {
+    padding-left: 25px;
+    padding-top: 11px;
+    font-size: smaller;
+  }
+  
+  .App-para {
+    display: flex;
+    
+  }
+  
+  .App-semi-para {
+    padding-left: 7px;
+    font-size: x-small;
+    margin-top: -1px;
+  }
+  
+  .App-img {
+    margin-left: 70px;
+    position: relative;
+    bottom: 33px;
+  
+  }
+  
+  .App-mini-para {
+    font-size: smaller;
+    padding-left: 30px;
+    margin-top: -18px;
+  }
+  
+  .App-para2 {
+    margin-left: 500px;
+    margin-top: -53px;
+  }
+  
+  .App-container {
+    width: 130vh;
+    height: 90vh;
+    background-color: rgb(177, 129, 129);
+    margin-left: 400px;
+    margin-top: 30px;
+    border-radius: 10px;
+  
+  }
+  
+  .App-inner-card1 {
+    
+    width: 100vh;
+    height: 20vh;
+    box-shadow: 0px 0px 5px 2px #DBE2F4;
+    border-radius: 5px;
+    margin: auto;
+    padding-top: 15px;
+    padding-left: 50px;
+    position: relative;
+    top: 40px;
+    
+    
+  }
+  
+  .App-inner-card2 {
+  
+    width: 100vh;
+    height: 20vh;
+    box-shadow: 0px 0px 5px 2px #DBE2F4;
+    border-radius: 5px;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 15px;
+    position: relative;
+    top: 70px;
+    right: 49px;
+  
+  }
+  
+  .App-inner-card3 {
+  
+    width: 100vh;
+    height: 20vh;
+    box-shadow: 0px 0px 5px 2px #DBE2F4;
+    border-radius: 5px;
+    margin: auto;
+    padding-left: 50px;
+    padding-top: 15px;
+    position: relative;
+    bottom:-95px;
+    right: 45px;
+  }
+
+  a{
+    text-decoration:none;
+ }

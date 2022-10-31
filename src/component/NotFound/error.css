@@ -1,0 +1,15 @@
+.App-not-found {
+align-items: center;
+text-align: center;
+width: 100vh;
+height: 70vh;
+box-shadow: 0px 0px 5px 2px #DBE2F4;
+border-radius: 5px;
+margin: auto;
+margin-top: 70px;
+}
+
+.App-err-image {
+    position: relative;
+    top: 60px;
+}
